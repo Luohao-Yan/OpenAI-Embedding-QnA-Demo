@@ -6,10 +6,10 @@
 # 运行此存储库
 运行此存储库：
 -   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#deploy-on-azure-webapp--redis-stack--batch-processing)
--   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#run-everything-locally-in-docker-webapp--redis-stack--batch-processing)
--   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#run-everything-locally-in-python-with-conda-webapp-only)
--   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#run-everything-locally-in-python-with-venv)
--   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#run-webapp-locally-in-docker-against-an-existing-redis-deployment)
+-   [在 Docker 中本地运行所有内容（WebApp + Redis Stack + Batch Processing）](#run-everything-locally-in-docker-webapp--redis-stack--batch-processing)
+-   [使用 Conda 在 Python 中本地运行所有内容（仅限 WebApp）](#run-everything-locally-in-python-with-conda-webapp-only)
+-   [使用 venv 在 Python 中本地运行所有内容](#run-everything-locally-in-python-with-venv)
+-   [针对现有 Redis 部署在 Docker 中本地运行 WebApp）](#run-webapp-locally-in-docker-against-an-existing-redis-deployment)
 
 ## 在 Azure 上部署（WebApp + Redis Stack + Batch Processing）
 [![在Azure上部署](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fruoccofabrizio%2Fazure-open-ai-embeddings-qna%2Fmain%2Finfrastructure%2Fdeployment.json)
