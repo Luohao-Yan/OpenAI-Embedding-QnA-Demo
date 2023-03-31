@@ -2,7 +2,9 @@
 
 一个支持openai的文档搜索的简单web应用程序。这个repo使用Azure OpenAI服务从文档创建嵌入向量。为了回答用户的问题，它检索最相关的文档，然后使用GPT-3提取与问题匹配的答案。
 ![架构](docs/architecture.png)
-
+## 效果
+* 部署后效果
+![效果](docs/01.png)
 # 运行此存储库
 运行此存储库：
 -   [在 Azure 上部署（WebApp + Redis Stack + Batch Processing）](#deploy-on-azure-webapp--redis-stack--batch-processing)
