@@ -26,7 +26,7 @@
 首先，克隆存储库：
 
 ```console
-git clone https://github.com/ruoccofabrizio/azure-open-ai-embeddings-qna
+git clone https://github.com/Luohao-Yan/OpenAI-Embedding-QnA-Demo
 cd azure-open-ai-embeddings-qna
 ```
 
