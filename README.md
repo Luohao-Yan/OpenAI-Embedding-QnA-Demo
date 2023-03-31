@@ -16,7 +16,7 @@
 ## 在 Azure 上部署（WebApp + Redis Stack + Batch Processing）
 [![在Azure上部署](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fruoccofabrizio%2Fazure-open-ai-embeddings-qna%2Fmain%2Finfrastructure%2Fdeployment.json)
 
-单击“部署到 Azure”按钮，然后在 Azure 门户中配置设置，如[环境变量](#环境变量)部分中所述。
+单击**“部署到 Azure”S**按钮，然后在 Azure 门户中配置设置，如[环境变量](#环境变量)部分中所述。
 
 请注意，您需要：
 -   具有已部署模型的现有OpenAI（指令模型，例如text-davinci-003，以及嵌入模型，例如text-search-davinci-doc-001和text-search-davinci-query-001）
